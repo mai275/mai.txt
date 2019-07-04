@@ -5,17 +5,13 @@
 ## 2. Các cú pháp trong Markdown 
 
 ### 2.1 Thẻ tiêu đề
-Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề. Mức độ riêu đề giảm dần từ 1 đến 6. 
- 
- ` 
-# H1 
-## H2 
-### H3
+* Markdown sử dụng kí tự # để bắt đầu cho các thẻ tiêu đề. Mức độ tiêu đề giảm dần từ 1 đến 6.  
+![](https://i.imgur.com/IhOUzjB.png)
 ` 
-
-# H1
-## H2
-### H3 
+# h1
+## h2
+### h3 
+`
 
 ## 2.2 Ký tự
 `*in nghiêng* 
@@ -69,4 +65,7 @@ Chụp ảnh và up ảnh lên trang http://i.imgur.com/ để lấy đường d
 |hàng   |hàng 1 |hàng 2 |hàng 3 | 
 |số     |1      |   2   |3      | 
 
+## 2.7 Link tài liệu tham khảo 
+`[1] https://en.wikipedia.org "Wikipedia" ` 
+* Chú thích cũng giống như vậy ` [^1]: writer,read. `
 
