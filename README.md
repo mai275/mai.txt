@@ -19,17 +19,17 @@ Khởi tạo repo đưa repo từ local lên github
 
 ### 2.3. Clone  
 Clone: Để sao chép remote repository, sẽ thực hiện thao tác này Khi thực hiện Clone, sẽ tải về toàn bộ nội dung của remote repository, và có thể tạo thành local repository ở máy khác. Lịch sử thay đổi cũng được sao chép nên có thể tham chiếu lịch sử hoàn toàn giống với Repository gốc và có thể commit. 
-* Tạo ra một bản sao làm việc của remote repo bằng cách chạy lệnh: 'git clone <địa chỉ file trên github>'
+* Tạo ra một bản sao làm việc của remote repo bằng cách chạy lệnh: `git clone <địa chỉ file trên github>`
 ![](https://i.imgur.com/lsO9iey.png)  
 * Ta có thể thêm vào đó các chỉ số 
-* Cuối cùng để lưu trữ file vừa tạo vào kho chứa Local thì ta sử dụng lệnh 'git commit -m"ghi chú của việc commit"'  
+* Cuối cùng để lưu trữ file vừa tạo vào kho chứa Local thì ta sử dụng lệnh `git commit -m"ghi chú của việc commit"`  
 
 ### 2.4. Push
 * Đẩy những thay đổi từ máy trạm lên server 
 * Để chia sẻ lịch sử thay đổi của local repository mà bản thân đang có bằng remote repository, cần phải upload lịch sử thay đổi trong local repository.  Khi thực hiện Push, lịch sử thay đổi của bản thân sẽ được upload lên remote repository và lịch sử thay đổi của remote repository sẽ có trạng thái giống với local repository.
-* Ta dùng lệnh 'git push origin master'  
+* Ta dùng lệnh `git push origin master`  
 
 ### 2.5. Pull
 * Đồng bộ trạng thái từ server về máy trạm 
 * Khi nhiều người chia sẻ Remote Repo và nhiều người cũng thực hiện công việc, thì mọi người sẽ push lên remote repository. Khi đó, cần lấy nội dung thay đổi mà người khác đã push lên đem vào local repository của bản thân. Thao tác này gọi là pull. 
-* ta dùng 'git push origin master'
+* ta dùng `git pull origin master`
