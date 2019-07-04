@@ -33,3 +33,5 @@ Clone: Để sao chép remote repository, sẽ thực hiện thao tác này Khi 
 * Đồng bộ trạng thái từ server về máy trạm 
 * Khi nhiều người chia sẻ Remote Repo và nhiều người cũng thực hiện công việc, thì mọi người sẽ push lên remote repository. Khi đó, cần lấy nội dung thay đổi mà người khác đã push lên đem vào local repository của bản thân. Thao tác này gọi là pull. 
 * ta dùng `git pull origin master`
+### 2.6 Branch
+* Branch dùng để phân nhánh và ghi lại luồng của lịch sử. Branch đã phân nhánh sẽ không ảnh hưởng gì đến branch khác nên có thể tiến hành nhiều thay đổi đồng thời trong cùng 1 repository.
