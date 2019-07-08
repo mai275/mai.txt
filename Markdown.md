@@ -54,11 +54,7 @@ Chụp ảnh và up ảnh lên trang http://i.imgur.com/ để lấy đường d
 
 ## 2.6 Tạo bảng 
 `
-| A     | B     | C     | D     | 
-|-------|-------|-------|-------| 
-|hàng   |hàng 1 |hàng 2 |hàng 3 | 
-|số     |1      |   2   |3      |  
-` 
+[Imgur](https://i.imgur.com/s2Xwjg5.png)
 
 | A     | B     | C     | D     |
 |-------|-------|-------|-------| 
