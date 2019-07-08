@@ -10,6 +10,8 @@
 Khởi tạo repo đưa repo từ local lên github 
 * Khởi tạo repo local, liên kết với tên và mail trên github, tạo thêm thư mục .git, tập tin Test.txt. 
 #### ![](https://i.imgur.com/a1k9Oni.png) 
+* Đẩy repo lên repo đã tạo sẵn 
+
 #### ![](https://i.imgur.com/QUU742Y.png)  
 #### ![](https://i.imgur.com/NYjJpnk.png)  
 
