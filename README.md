@@ -9,10 +9,9 @@
 * có 2 loại Repo: remote Repo và local repo. 
 Khởi tạo repo đưa repo từ local lên github 
 * Khởi tạo repo local, liên kết với tên và mail trên github, tạo thêm thư mục .git, tập tin Test.txt. 
-![](https://i.imgur.com/a1k9Oni.png) 
-* Đẩy repo lên repo tạo sẵn trên github 
-![Imgur](https://i.imgur.com/oDkf4eL.png) 
-![Imgur](https://i.imgur.com/NYjJpnk.png)  
+#### ![](https://i.imgur.com/a1k9Oni.png) 
+#### ![](https://i.imgur.com/QUU742Y.png)  
+#### ![](https://i.imgur.com/NYjJpnk.png)  
 
 ### 2.2. Commit  
 * Commit: Ghi lại trạng thái thay đổi tại máy local,bằng việc lần theo commit này từ trạng thái mới nhất thì có thể hiểu được lịch sử thay đổi trong quá khứ hoặc nội dung thay đổi đó.
